@@ -21,7 +21,7 @@ def alarm(seconds):
         seconds_left=time_left%60
         print(f"{CLEAR_AND_RETURN}Alarm will sound in: {minutes_left:02d}:{seconds_left:02d}")
     playsound("alaram_sound.mp3")
-        #here :02d gives us the 2 digit kind of representation.
+        #here :02d gives us the 2 digit kind of representation.2 digited with decimal.
 
 minutes=int(input("Enter how many minutes to wait: "))
 seconds=int(input("Enter how many seconds to wait: "))
