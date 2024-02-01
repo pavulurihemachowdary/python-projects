@@ -15,3 +15,7 @@ III)ROCK_PAPER_SCISSORS GAME :
 IV)CHOOSE ADVENTURE GAME :
   The choosing adventure game is prompt based one where it creates a scenario with options to choose by the user.
   Based on these it generates further adventures.Basically it is most of customisable kind of project/game.
+
+V)ALARAM CLOCK:
+  The alarm clock is a timer based python program,which user can set timer and it starts ringing after the timer over.
+  I used playsound module for implemntation of sound in this program.
