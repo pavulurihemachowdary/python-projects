@@ -15,3 +15,6 @@ III)ROCK_PAPER_SCISSORS GAME :
 IV)CHOOSE ADVENTURE GAME :
   The choosing adventure game is prompt based one where it creates a scenario with options to choose by the user.
   Based on these it generates further adventures.Basically it is most of customisable kind of project/game.
+
+V)PASSWORD GENERATOR:
+  The password_generator() funtion take the parameters of length of password to be generated,which is given by the user and either numbers or special characters if required which is user defined.
