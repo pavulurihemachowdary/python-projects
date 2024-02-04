@@ -16,11 +16,13 @@ IV)CHOOSE ADVENTURE GAME :-
   The choosing adventure game is prompt based one where it creates a scenario with options to choose by the user.
   Based on these it generates further adventures.Basically it is most of customisable kind of project/game.
 
-<<<<<<< HEAD
 V)PASSWORD GENERATOR:
   The password_generator() funtion take the parameters of length of password to be generated,which is given by the user and either numbers or special characters if required which is user defined.
-=======
+
 V)ALARAM CLOCK:-
   The alarm clock is a timer based python program,which user can set timer and it starts ringing after the timer over.
   I used playsound module for implemntation of sound in this program.
->>>>>>> 21b29799d8eb573b7030150e3af7291f7c1d53b2
+
+VI)PASSWORD MANAGER:-
+  The password manager program let you add passwords of different accounts into a text file,which is encrypted using
+  cryptography module.And also has view option to view the stored passwords.
