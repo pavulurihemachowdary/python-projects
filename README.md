@@ -23,6 +23,6 @@ V)ALARAM CLOCK:-
   The alarm clock is a timer based python program,which user can set timer and it starts ringing after the timer over.
   I used playsound module for implemntation of sound in this program.
 
-VI)PASSWORD MANAGER :-
+VI)PASSWORD MANAGER:-
   The password manager program let you add passwords of different accounts into a text file,which is encrypted using
   cryptography module.And also has view option to view the stored passwords.
