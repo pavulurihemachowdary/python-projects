@@ -26,3 +26,7 @@ V)ALARAM CLOCK:-
 VI)PASSWORD MANAGER:-
   The password manager program let you add passwords of different accounts into a text file,which is encrypted using
   cryptography module.And also has view option to view the stored passwords.
+
+VII)MULTIPLAYER GAME:-
+  The multiplayer game replictes something like LUDO.It asks for the no.of players with their names,then asks them if they want
+  continue ,if randomly generated number is 1,it terminates and makes score to 0.We can customize it according to the requirements.
