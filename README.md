@@ -36,4 +36,5 @@ Contains basic, medium and advance level python projects.
   Based on these words the user gets a story, this could be customised if needed as story can change and the questions,too .which finally 
   generates a fun story.
   
-10)
+10)TIMED MATH CHALLENGE
+  The timed math challenge is kind of like a maths quiz, where you are asked questions and it repeats until you give the correct answer.Also it depicts the time you have taken to finish this challenge.We can customize by no_of_questions and type_of_questions further.
