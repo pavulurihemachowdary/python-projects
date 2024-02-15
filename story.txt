@@ -1,4 +1,4 @@
-In a <adjective> town, there lived a <noun> named <name>. <name> was known for their <adjective> <noun>.
+In a <adjective> town, there lived a <pronoun> named <name>. <name> was known for their <adjective> <noun>.
 
 One day, while <verb ending in -ing>, <name> found a magical <noun>. It granted <name> the power to <verb> anything they touched.
 
